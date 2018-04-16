@@ -1,0 +1,47 @@
+[aryelgois.github.io]
+checkout = git clone https://github.com/aryelgois/aryelgois.github.io.git
+
+[bank-interchange]
+checkout = git clone https://github.com/aryelgois/bank-interchange.git
+
+[bank-interchange-webapp]
+checkout = git clone https://github.com/aryelgois/bank-interchange-webapp.git
+
+[composer-front-end]
+checkout = git clone https://github.com/aryelgois/composer-front-end.git
+
+[databases]
+checkout = git clone https://github.com/aryelgois/databases.git
+
+[local-gallery]
+checkout = git clone https://github.com/aryelgois/local-gallery.git
+
+[Medools]
+checkout = git clone https://github.com/aryelgois/Medools.git
+
+[medools-router]
+checkout = git clone https://github.com/aryelgois/medools-router.git
+
+[objects]
+checkout = git clone https://github.com/aryelgois/objects.git
+
+[php-vue]
+checkout = git clone https://github.com/aryelgois/php-vue.git
+
+[tag]
+checkout = git clone https://github.com/aryelgois/tag.git
+
+[teste]
+checkout = git clone https://github.com/aryelgois/teste.git
+
+[utils]
+checkout = git clone https://github.com/aryelgois/utils.git
+
+[utils-js]
+checkout = git clone https://github.com/aryelgois/utils-js.git
+
+[yasql]
+checkout = git clone https://github.com/aryelgois/yasql.git
+
+[yasql-php]
+checkout = git clone https://github.com/aryelgois/yasql-php.git
