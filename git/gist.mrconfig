@@ -1,0 +1,20 @@
+[.gist/git-colored]
+checkout = git clone https://gist.github.com/aryelgois/c413ca5bf7bb9341c3c9181d492217d6 git-colored
+
+[.gist/git-log-fullest]
+checkout = git clone https://gist.github.com/aryelgois/bcba085572e2786a579d82354ad540f6 git-log-fullest
+
+[.gist/git-recommit]
+checkout = git clone https://gist.github.com/aryelgois/ef18d6fa7ac7768f5b8d93e6b0a2e27f git-recommit
+
+[.gist/git-watchless]
+checkout = git clone https://gist.github.com/aryelgois/b0d0bd3c7e07c9345535b3e058c310b0 git-watchless
+
+[.gist/gitignore_line]
+checkout = git clone https://gist.github.com/aryelgois/3674648cbb34f5d0ee1042017494a173 gitignore_line
+
+[.gist/http-response]
+checkout = git clone https://gist.github.com/aryelgois/e577aa73ebbe1463532ab8a584e3d16c http-response
+
+[.gist/stack_trace]
+checkout = git clone https://gist.github.com/aryelgois/5635e8e6c9244d0a4f4ca6e983095113 stack_trace
