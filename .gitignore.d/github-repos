@@ -1,0 +1,9 @@
+*
+!/.config
+!/.config/mr
+!/.config/mr/available.d
+!/.config/mr/available.d/github-repos.vcsh
+!/.config/mr/config.d
+!/.config/mr/config.d/github-repos.vcsh
+!/.gitignore.d
+!/.gitignore.d/github-repos
