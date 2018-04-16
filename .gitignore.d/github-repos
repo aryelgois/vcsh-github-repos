@@ -10,4 +10,5 @@
 
 !/git
 !/git/.mrconfig
+!/git/forks.mrconfig
 !/git/public.mrconfig

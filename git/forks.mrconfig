@@ -1,0 +1,14 @@
+[designwithfontforge.com]
+checkout = git clone https://github.com/aryelgois/designwithfontforge.com.git
+
+[GUMP]
+checkout = git clone https://github.com/aryelgois/GUMP.git
+
+[myrepos]
+checkout = git clone https://github.com/aryelgois/myrepos.git
+
+[vcsh]
+checkout = git clone https://github.com/aryelgois/vcsh.git
+
+[word-swap]
+checkout = git clone https://github.com/aryelgois/word-swap.git
