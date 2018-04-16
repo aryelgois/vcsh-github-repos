@@ -7,3 +7,6 @@
 !/.config/mr/config.d/github-repos.vcsh
 !/.gitignore.d
 !/.gitignore.d/github-repos
+
+!/git
+!/git/.mrconfig
